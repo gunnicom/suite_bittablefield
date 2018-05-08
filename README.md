@@ -7,4 +7,4 @@ Take it as it is, submit pull request and issues.
 
 Known issues:
 Column and row labels are not shown when editing field definition
-
+No Inline-Edit
